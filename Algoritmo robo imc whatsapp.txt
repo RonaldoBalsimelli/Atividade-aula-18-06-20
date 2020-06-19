@@ -1,0 +1,21 @@
+ 
+ 
+ 
+ 
+ Algoritmo robo imc whatsapp
+ 
+ Receber uma mensagem do usuario relacionado a IMC.
+ Identificar se a mensagem é relacionada ao IMC.
+ Perguntar o Peso do usuário em Quilos "Qual seu peso em Kg?"
+ Aguardar a resposta do usuário 
+ Perguntar a altura do usuário em Metros " Qual sua altura em metros?"
+ Aguardar a resposta do usuário
+ Realizar calculo IMC QUILOS / ALTURA * ALTURA 
+ Apresentar numero final ao usuario junto com a tabela 
+
+ IMC	            CLASSIFICAÇÃO	          OBESIDADE           (GRAU)
+ MENOR QUE               18,5	               MAGREZA           	0
+ ENTRE                18,5 E 24,9	           NORMAL	            0
+ ENTRE                25,0 E 29,9	           SOBREPESO         	I
+ ENTRE                30,0 E 39,9	           OBESIDADE	        II
+ MAIOR QUE            40,0	                   OBESIDADE GRAVE   	III
